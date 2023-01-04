@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "smarttro",
+    "slug": "smarttro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
