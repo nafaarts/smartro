@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484866406061",
+    "project_id": "finalassigment-mitah",
+    "storage_bucket": "finalassigment-mitah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484866406061:android:c233147588f1c4604df824",
+        "android_client_info": {
+          "package_name": "com.mitah.smarttro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484866406061-betpinos8ki2ogqr7c821j0gv6bcnopo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9J2Iuf4DNrEVcEdhHzMDFaSiQxhr8as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484866406061-betpinos8ki2ogqr7c821j0gv6bcnopo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

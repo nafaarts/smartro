@@ -3,8 +3,33 @@
     "name": "smarttro",
     "slug": "smarttro",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "com.mitah.smarttro",
+    "icon": "./assets/images/icon.png",
+    "jsEngine": "hermes",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.mitah.smarttro",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e811db9d-aeb5-41db-9174-be8d7bb67516"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.mitah.smarttro"
+    }
   }
 }
